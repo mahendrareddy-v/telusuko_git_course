@@ -1,0 +1,6 @@
+hi! your from fitstfile 
+take input 
+write value 
+
+
+submit data to database
